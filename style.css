@@ -1,0 +1,151 @@
+body {
+  background-color: #B0B5B5
+}
+
+.main h1 {
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+}
+
+ .title {
+  text-align: center;
+  text-decoration: underline;
+}
+/*colors section*/
+.container {
+  border: 3px solid black;
+  padding: 10px;
+  margin: 20px auto;
+}
+
+.color-container {
+  width: 100%;
+  margin: 10px auto;
+  padding-left: 25px;
+}
+
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+  border-radius: 10px; 
+ 
+}
+
+.blood-red {
+  background-color: #CF0003;
+  color: white;
+}
+
+.green{
+background-color: #0DB81B;
+color: white;
+}
+
+.orange {
+background-color: #FA7E02;
+color: white;
+}
+
+.purple {
+background-color: #BF35E6;
+color: white;
+}
+
+.blue {
+background-color: #053EFA;
+color: white;
+}
+
+.pink {
+background-color: #FA0255;
+color: white;
+}
+/*color section ends*/
+
+/*fonts section*/
+
+.font-container {
+text-align: center;
+}
+
+.font-panel {
+  display: inline-block;
+  width: 40%;
+  text-align: center;
+  margin: 10px 40px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bolder {
+  font-weight: bolder;
+}
+
+.code-pro {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.nunito {
+  font-family: 'Nunito-Sans', sans-serif;
+}
+.poppins {
+  font-family: 'poppins', sans-serif;
+}
+
+/*end font section*/
+
+
+/*text style section*/
+
+.text-container {
+  text-align: center;
+  
+}
+
+.text-panel {
+  display: inline-block;
+  margin: 60px 100px;
+  
+  background-color: white;
+  border-radius: 10px;
+  width: 20%;
+}
+
+.text-line {
+  text-decoration: underline;
+}
+
+ul {
+  text-align: left;
+  padding-left: 80px;
+}
+
+li {
+  margin: 10px;
+  
+}
+
+
+
+
+
+
+
